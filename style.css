@@ -65,7 +65,7 @@ img#corner-logo {
 
 img#center-logo { 
     position: fixed;
-    top: 75px;
+    top: 100px;
     left: 50%;
     width: 300px;
     height: auto;
